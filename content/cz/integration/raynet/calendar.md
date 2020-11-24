@@ -11,18 +11,14 @@ Díky synchronizaci kalendářů se Vám budou události automaticky přenášet
 
 ## Synchronizace soukromých událostí
 ---
-Outlook Vám nabízí možnost vytváření soukromých událostí (označených symbolem zámku). Do Raynetu je můžeme přenášet třemi způsoby:
+Outlook Vám nabízí možnost vytváření soukromých událostí (označených symbolem zámku). Do Raynetu je můžeme přenášet dvěma způsoby:
 
-#### 1. Synchronizovat jako standardní události
-- Soukromé události z Outlooku se budou propisovat stejně jako všechny ostatní události.
-- Synchronizuje se název, čas, účastníci a popis.
-
-#### 2. Synchronizovat jako Time blocker
+#### 1. Synchronizovat jako Time blocker
 - Dejte Vašim kolegům v Raynetu vědět, že nemáte čas, ale další podrobnosti s nimi už nesdílejte.
 - V této možnosti se název události přepíše na Time blocker, synchronizuje se pouze čas.
 
-#### 3.	Nesynchronizovat
-- Soukromé události z Outlooku se v Raynetu nebudou zobrazovat.
+#### 2.	Nesynchronizovat
+- Soukromé události z Outlooku se v Raynetu nezobrazují.
 
 ## Synchronizace hotových událostí
 ---
