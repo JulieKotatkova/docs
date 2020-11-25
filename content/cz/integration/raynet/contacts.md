@@ -5,9 +5,9 @@ title: "Synchronizace kontatků"
 linkTitle: "Kontakty"
 date: 2020-10-28
 description: >
-  Synchronizujte kontakty z Raynet CRM do Office 365 (Exchange Online)!
+  Synchronizujte kontakty z Raynet CRM do Microsoft 365!
 ---
-Díky tomuto modulu integrace budete moci pohodlně synchronizovat kontakty ze svého adresář v Raynetu do Outlooku pomocí jednoho tlačítka.
+Díky tomuto modulu integrace budete moci pohodlně synchronizovat kontakty ze svého adresáře v Raynetu do Outlooku pomocí jednoho tlačítka.
 
 ## Předcházení duplicit
 Aby nedocházelo k duplikování záznamů, synchronizace probíhá jednostranně z Raynetu do Outlooku. Z toho důvodu je nutné upravovat kontakty v Raynetu.
